@@ -1,0 +1,5 @@
+openGL is a cross-language/platform API for rendering 2D/3D graphics.
+
+used OpenGL and C to code some computer graphics algorithms alongside some shapes/interaction experiments.
+
+see the github for more info: https://github.com/sudotman/OpenGl-Experiments

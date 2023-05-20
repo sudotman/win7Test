@@ -1,0 +1,108 @@
+text dump:
+
+
+Work Experience
+
+Organizations
+
+Information about the various organizations I have worked at [includes freelance work].
+
+
+Parallax Labs (2021 - Present)
+
+Senior XR Developer (2022 - Present)
+Associate XR Developer (2021 - 2022)
+Responsible for developing and shipping various projects for various sectors such as defence, pharma, manufacturing; also, developed various XR training solutions. I am also responsible for managing a team of developers and facing clients.
+
+
+Code Crust (2021 - 2021)
+
+Unity Developer (2021 - 2021)
+Was responsible for developing various levels, games for their online multiplayer party game. Dealt with miniscript based multiplayer coding and research.
+
+
+Freelance Work (2018 - 2022)
+
+Android Development (2018 - 2019)
+Unity Development (2018 - 2021)
+Unreal Development (2020 - 2022)
+Video Editing (2018 - 2022)
+Pinescript Coding (2020 - 2022)
+Freelance work ranging from Android Applications, Unity Projects, Unreal Projects, Video Editing in Premiere Pro/Vegas. Pinescript coding to aid with indicators/strategies.
+
+
+
+
+
+Education
+
+Information about my major conventional education.
+
+
+Bachelors in Computer Science w/ a specialization in Graphics and Gaming
+University of Petroleum and Energy Studies (2018-2022)
+Finished my bachelors and spent the last year interning.
+
+
+Higher Secondary Education
+Sigma School of Science (2016-2018)
+Studied Maths, Physics and Chemistry. [semi-relevant; passed out with a 'Best Student' certificate from the principal]
+
+
+
+
+Tech Stack
+
+Information about the tech stack I am profecient with.
+
+Game Engines/XR Development
+
+Unity Engine
+Unreal Engine
+Godot*
+Well-versed with Unity and Unreal. *Lacking solid knowledge of Godot.
+
+
+Languages
+
+C++/C
+C#
+Python
+Pinescript
+Well-versed with all of them.
+
+
+Non-Coding Stack
+
+Adobe Premiere Pro
+Adobe Photoshop
+Linux [various distros]
+Have spent a lot of time doing personal projects with the aforementioned.
+
+
+
+
+Non-Professional Information
+
+Brief description of my various interests. [outside the tech space]
+
+Cinema
+
+Letterboxd Link
+I love cinema from all over the world and not restricted to any genre. I love to go into detail about every shot/frame and try to interpret different metaphors, meanings [which can also be a little annoying to my friends]. I refrain from calling myself a "cinephile" because of the sheer unfiltered stream of pretentiousness that is associated with it. Some of my favorite directors are: Lars von Trier, Alfred Hitchcock, Adam McKay, Martin Scorsese, Stanley Kubrick and Bergman.
+
+
+Music
+
+Topster Link (2021)
+I love Music from all over the world [similar to cinema] and dabble in a lot of experimental music too. Some of my favorite artists are: Death Grips, The Microphones, Have A Nice Life, Kendrick Lamar.
+
+
+Books
+
+Reading books is greatly fun but alas I have slowed my pace of reading books. My favorite authors are: Franz Kafka and Oscar Wilde.
+
+
+Games
+
+I have been a huge gamer ever since I remember. I dislike most generic formulaic games but the few I love, I love greatly. My favorite game developers are FromSoftware and Nintendo. My favorite game directors/designers are Hidetaka Miyazaki and Miyamoto. My favorite games are: Hollow Knight, Celeste, Dark Souls, Super Mario Galaxy, Bloodborne, Outer Wilds, Portal and many more! See some of the games I have made on here: Games Designed.

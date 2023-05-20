@@ -1,0 +1,5 @@
+a hack-and-slash RPG type game that I made based around Shiva and his stories as described in the puranas.
+
+it has 3 levels, out of which 2 are story based and one is a quest-based level.
+
+a rough trailer: https://youtu.be/n1a0VhDK-ck

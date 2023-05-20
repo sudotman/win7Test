@@ -1,4 +1,9 @@
 better unity is a collection of modifications/additions (scripts/prefabs) which enhance [for me] the overall flow of using the Unity Engine.
 
+Purpose:
+there are some key features pan other game engines that seem to be lacking in Unity and this is a package to resolve those problems.
+
+mainly uses exposed editor/GUI low-level hooks/APIs inside of Unity to enable these features.
+
 see the full demo here: https://github.com/sudotman/BetterUnity
 

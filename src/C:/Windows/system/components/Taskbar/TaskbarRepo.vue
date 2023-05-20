@@ -10,20 +10,13 @@
     >
       <div :class="$style.popup">
         <div>
-          If you're interested in this, support it by starring <a
-            href="https://github.com/nainemom/win7"
+          You can checkout my github! <a
+            href="https://github.com/sudotman"
             target="__blank"
-          >Github Repo</a>!
+          >Github Link</a>!
         </div>
         <br>
-        <iframe
-          src="https://ghbtns.com/github-btn.html?user=nainemom&repo=win7&type=star&count=true&size=large"
-          frameborder="0"
-          scrolling="0"
-          width="170"
-          height="30"
-          title="GitHub"
-        />
+       
       </div>
     </Popup>
   </div>

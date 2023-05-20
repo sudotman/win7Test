@@ -1,0 +1,5 @@
+a suite of programs for collecting, analysing and eventually, implementing data related to cryptocurrencies. Also, allows you to check your balance, place orders from one place.
+
+it uses the Binance Exchange/API for its working.
+
+see the github here: https://github.com/sudotman/coinsentience
