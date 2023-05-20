@@ -16,6 +16,7 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/win7Test/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, '/src/C:/Windows/system'),
