@@ -1,0 +1,4 @@
+better unity is a collection of modifications/additions (scripts/prefabs) which enhance [for me] the overall flow of using the Unity Engine.
+
+see the full demo here: https://github.com/sudotman/BetterUnity
+

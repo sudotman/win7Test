@@ -4,10 +4,10 @@
       v-if="!isFullScreen"
       @click="startFullscreen"
     >
-      Start Fullscreen
+      Experience in Fullscreen
     </button>
     <button @click="start">
-      Start Normally
+      Start in the current size
     </button>
   </div>
 </template>
@@ -24,7 +24,7 @@ export default {
       return !!window.document.fullscreenElement;
     },
     backgroundUrl() {
-      return resolveFileByPath('C:/Windows/system/images/login.jpg').data;
+      return resolveFileByPath('C:/Windows/system/images/login.gif').data;
     },
   },
   methods: {
